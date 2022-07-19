@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
+body {
+  background-color: rgb(248, 190, 42);
+}
